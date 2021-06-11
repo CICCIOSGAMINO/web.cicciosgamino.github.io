@@ -1,0 +1,28 @@
+{
+  "name": "cicciosgamino.github.io",
+  "version": "3.1.0",
+  "description": "Github Pages for CICCIOSGAMINO user!",
+  "main": "dist/cicciosgamino.github.io.es.js",
+  "exports": {
+    ".": "./dist/cicciosgamino.github.io.es.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": "https://github.com/CICCIOSGAMINO/cicciosgamino.github.io.git",
+  "author": "@cicciosgamino <marco.canali@gmail.com>",
+  "license": "GPLv3.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --port 3000 --host"
+  },
+  "private": false,
+  "dependencies": {
+    "@cicciosgamino/images-switch": "^3.0.0",
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "vite": "^2.3.7"
+  }
+}
