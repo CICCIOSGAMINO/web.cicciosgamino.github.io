@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.0.0] - 20-07-2021
+### Added
+  - Particle.js
+### Updated 
+  - Minor fix
+
 ## [3.2.0] - 14-06-2021
 ### Added
   - Deploy on Firebase hosting too

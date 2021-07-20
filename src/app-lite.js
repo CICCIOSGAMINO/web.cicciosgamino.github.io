@@ -9,15 +9,20 @@ class AppLite extends LitElement {
         display: block;
         margin: 0;
         padding: 0;
-        /* margin: 2em 2em; */
 
         height: 100vh;
-
         text-align: center;
       }
 
       svg {
         padding-top: 5rem;
+      }
+
+      p {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        z-index: 10;
       }
 
       a {
@@ -54,6 +59,8 @@ class AppLite extends LitElement {
 
         position: absolute;
         bottom: 5rem;
+        z-index: 10;
+
         transform: translate(-5rem)
       }
     `
@@ -81,11 +88,15 @@ class AppLite extends LitElement {
   render () {
     return html`
 
-      ${beer}
+      <div>
+        ${beer}
+      </div>
 
-      <p>
-        <a href="https://www.instagram.com/cicciosgamino/" target="_blank">@cicciosgamino</a>
-      </p>
+      <div>
+        <p>
+          <a href="https://www.instagram.com/cicciosgamino/" target="_blank">@cicciosgamino</a>
+        </p>
+      </div>
 
       <images-switch .checked=${this.dark}></images-switch>
     `

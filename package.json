@@ -1,6 +1,6 @@
 {
   "name": "cicciosgamino.github.io",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "description": "Github Pages for CICCIOSGAMINO user!",
   "main": "dist/cicciosgamino.github.io.es.js",
   "exports": {
@@ -20,7 +20,8 @@
   "private": false,
   "dependencies": {
     "@cicciosgamino/images-switch": "^3.0.0",
-    "lit-element": "^2.4.0"
+    "lit-element": "^2.4.0",
+    "particlesjs": "^2.2.3"
   },
   "devDependencies": {
     "vite": "^2.3.7"
