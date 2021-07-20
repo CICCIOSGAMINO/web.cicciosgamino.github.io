@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.1.0] - 20-07-2021
+### Updated
+  - particles.min.js imported from public/scripts folder
+
 ## [4.0.0] - 20-07-2021
 ### Added
   - Particle.js

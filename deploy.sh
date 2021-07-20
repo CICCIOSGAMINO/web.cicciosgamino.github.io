@@ -7,10 +7,7 @@ npm run build
 
 cd dist
 
-# if you are deploying to a custom domain
-# echo 'www.example.com' > CNAME
-
-git init
+# git init
 # git remote add origin https://github.com/CICCIOSGAMINO/cicciosgamino.github.io.git
 
 git add -A
