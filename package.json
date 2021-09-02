@@ -20,9 +20,9 @@
   "private": false,
   "dependencies": {
     "@cicciosgamino/images-switch": "^3.0.0",
-    "lit-element": "^2.4.0"
+    "lit": "*"
   },
   "devDependencies": {
-    "vite": "^2.3.7"
+    "vite": "^2.5.3"
   }
 }

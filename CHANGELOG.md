@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.0] - 02-09-2021
+### Updated
+  - from lit-element to lit
+  - vite to 2.5.3
+  - icon.svg to 1024x1024
+  - All icons size into manifest.webmanifest
+
+## remove
+  - Intro svg splash screen handled into index.html
+
 ## [4.1.0] - 20-07-2021
 ### Updated
   - particles.min.js imported from public/scripts folder
