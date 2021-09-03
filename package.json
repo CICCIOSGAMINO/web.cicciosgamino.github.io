@@ -1,6 +1,6 @@
 {
   "name": "cicciosgamino.github.io",
-  "version": "4.1.0",
+  "version": "5.0.1",
   "description": "Github Pages for CICCIOSGAMINO user!",
   "main": "dist/cicciosgamino.github.io.es.js",
   "exports": {

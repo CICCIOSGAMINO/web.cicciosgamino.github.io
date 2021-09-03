@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.1] - 03-09-2021
+### Added
+  - meta theme-color
+  - Apple splash-screen png s
+  - Apple link apple-touch-startup-image
+
 ## [5.0.0] - 02-09-2021
 ### Updated
   - from lit-element to lit
