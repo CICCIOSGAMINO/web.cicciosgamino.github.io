@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.2] - 05-10-2021
+### Add
+  - Other example images gif
+
 ## [5.0.1] - 03-09-2021
 ### Added
   - meta theme-color
