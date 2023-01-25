@@ -27,7 +27,7 @@ cicciosgamino.github.io
 cicciosgamino.web.app
 
 ```bash
-./deloy
+./deploy
 ```
 
 This command build with Vite the static assets and push the results of dist folder to cicciosgamino.github.io repo used from Github Pages.
